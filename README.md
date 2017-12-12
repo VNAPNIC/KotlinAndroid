@@ -6,8 +6,6 @@
 
 ## Nội dung
 
- -----------
- 
 - [Kotlin cơ bản](http://#)
 - [Function trong kotlin](http://#)
 - [Higher Order Function và Lambda trong kotlin](http://#)
